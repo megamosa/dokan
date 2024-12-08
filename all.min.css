@@ -10920,7 +10920,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../front/webfonts/fa-brands-400.woff2) format("woff2"), url(../../front/webfonts/fa-brands-400.woff) format("woff"), url(../../front/webfonts/fa-brands-400.ttf) format("truetype")
+    src: url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-brands-400.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-brands-400.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-brands-400.ttf) format("truetype")
 }
 
 .fa-brands,
@@ -12753,7 +12753,7 @@
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url(../../front/webfonts/fa-duotone-900.woff2) format("woff2"), url(../../front/webfonts/fa-duotone-900.woff) format("woff"), url(../../front/webfonts/fa-duotone-900.ttf) format("truetype")
+    src: url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-duotone-900.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-duotone-900.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-duotone-900.ttf) format("truetype")
 }
 
 .fa-duotone,
@@ -26776,7 +26776,7 @@
     font-style: normal;
     font-weight: 300;
     font-display: block;
-    src: url(../../front/webfonts/fa-light-300.woff2) format("woff2"), url(../../front/webfonts/fa-light-300.woff) format("woff"), url(../../front/webfonts/fa-light-300.ttf) format("truetype")
+    src: url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-light-300.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-light-300.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-light-300.ttf) format("truetype")
 }
 
 .fa-light,
@@ -26789,7 +26789,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../../front/webfonts/fa-regular-400.woff2) format("woff2"), url(../../front/webfonts/fa-regular-400.woff) format("woff"), url(../../front/webfonts/fa-regular-400.ttf) format("truetype")
+    src: url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-regular-400.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-regular-400.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-regular-400.ttf) format("truetype")
 }
 
 .fa-light,
@@ -26809,7 +26809,7 @@
     font-style: normal;
     font-weight: 900;
     font-display: block;
-    src: url(../../front/webfonts/fa-solid-900.woff2) format("woff2"), url(../../front/webfonts/fa-solid-900.woff) format("woff"), url(../../front/webfonts/fa-solid-900.ttf) format("truetype")
+    src: url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-solid-900.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-solid-900.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-solid-900.ttf) format("truetype")
 }
 
 .fa-solid,
@@ -26822,7 +26822,7 @@
     font-style: normal;
     font-weight: 100;
     font-display: block;
-    src: url(../../front/webfonts/fa-thin-100.woff2) format("woff2"), url(../../front/webfonts/fa-thin-100.woff) format("woff"), url(../../front/webfonts/fa-thin-100.ttf) format("truetype")
+    src: url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-thin-100.woff2) format("woff2"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-thin-100.woff) format("woff"), url(https://cdn.jsdelivr.net/gh/megamosa/dokan@main/webfonts/fa-thin-100.ttf) format("truetype")
 }
 
 .fa-solid,
