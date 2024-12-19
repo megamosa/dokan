@@ -1,12 +1,8 @@
 /*
 [Table of contents]
-
 1 header-fixed js
-
 2 menu-icon js 
-
 3 lazyload js
-
 4 wow js
 
 5 Owl carousel js
