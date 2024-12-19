@@ -917,18 +917,17 @@ function managefavorite(product_id, vendor_id, f_url) {
 }
 
 // JavaScript
-document.addEventListener('DOMContentLoaded', function() {
-  const button = document.getElementById('quick-btn');
-  
-  if (button) {
-    button.addEventListener('click', function() {
-      this.classList.toggle('expanded');
-    });
-  } else {
-    console.error('Button with id "quick-btn" not found!');
-  }
-});
+const button = document.getElementById('quick-btn');
 
+if (button) {
+  button.addEventListener('click', function() {
+    this.classList.toggle('expanded');
+  });
+} else {
+  console.error('Button with id "quick-btn" not found!');
+}
+
+// JavaScript
 
 $(document).ready(function () {
   // Function to add blur class to wrapper when modal has 'show' class
