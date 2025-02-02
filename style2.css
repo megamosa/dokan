@@ -9,4 +9,6 @@ Version: 4.0
 }
 ant;}section.storereview-sec.mb-5 .store-review.owl-carousel.owl-theme.owl-loaded.owl-drag {
     direction: ltr;
+}ul.d-flex.gap-4.p-0.m-0 li {
+    white-space: nowrap;
 }
