@@ -13890,5 +13890,7 @@ fieldset:disabled .btn {
         display: none !important
     }
 }
-
+.js-cookie-consent.cookie-consent {
+    display: none !important;
+}
 /*# sourceMappingURL=bootstrap.min.css.map */
